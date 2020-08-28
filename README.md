@@ -1,4 +1,4 @@
-# CPP
+# Cloudy
 ## A CPP Repo which dives into win32 and OpenGL
 
 This repository dives into my longer running series which deals with C++ and explores the win32 GDI "old-skool" style of getting stuff onto the screen.
